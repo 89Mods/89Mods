@@ -6,6 +6,9 @@ I like building my own embedded systems or microcomputers and playing with them,
 Check out my website for a small selection of the things I usually get up to: <a href="https://tholin.dev/">here!</a><br>
 Reach out if you need help with or just wanna talk about shader programming or digital electronics
 </p>
+
+<h4 align="left">He/Him, She/Her (sometimes)</h4>
+<img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
   
 <h2 align="left">Programming Languages</h2>
 
@@ -93,6 +96,3 @@ Sorted approximately from most favorite to least.
     </td>
   </tr>
 </table>
-
-<h4 align="left">He/Him, She/Her (sometimes)</h4>
-<img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
