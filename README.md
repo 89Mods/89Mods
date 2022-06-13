@@ -1,6 +1,6 @@
 Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool). I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
 
-### Programming Languages
+<h2 align="left">Programming Languages</h2>
 
 Sorted approximately from most favorite to least.
 
@@ -18,7 +18,7 @@ Assembly (Z80, AVR, CDP1802, S2650, 6502/65C02)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Home server stack
+<h2 align="left">Home server stack</h2>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
