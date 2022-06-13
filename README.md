@@ -10,10 +10,14 @@ Sorted approximately from most favorite to least.
 
 <table>
   <tr>
-    Assembly (Z80, AVR, CDP1802, S2650, 6502/65C02)
+    <td>
+      Assembly (Z80, AVR, CDP1802, S2650, 6502/65C02)
+    </td>
   </tr>
   <tr>
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    <td>
+      ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    </td>
   </tr>
   <tr>
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
