@@ -16,7 +16,7 @@ Sorted approximately from most favorite to least.
   </tr>
   <tr>
     <td>
-      ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     </td>
   </tr>
   <tr>
