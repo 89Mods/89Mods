@@ -1,10 +1,10 @@
 <h2 align="left">About me</h2>
 
 <p>
-  Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool).<br>
+  Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool).<br>As a result, I also have a very intimate understanding of how computers work, and often use it to make them all sorts of crazy things.<br>
   I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
   Check out my website for a small selection of the things I usually get up to: <a href="https://tholin.dev/">here!</a><br>
-  Reach out if you need help with or just wanna talk about shader programming or digital electronics
+  Reach out if you need help with or just wanna talk about shader programming or digital electronics.
 </p>
 
 <p>
