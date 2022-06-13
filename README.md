@@ -1,23 +1,37 @@
-Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool). I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
+<h2 align="left">About me</h2>
+
+Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool).
+I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
+Check out my website for a small selection of the things I usually get up to: https://tholin.dev/
 
 <h2 align="left">Programming Languages</h2>
 
 Sorted approximately from most favorite to least.
 
-Assembly (Z80, AVR, CDP1802, S2650, 6502/65C02)
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<table>
+  <tr>
+    Assembly (Z80, AVR, CDP1802, S2650, 6502/65C02)
+  </tr>
+  <tr>
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  </tr>
+  <tr>
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  </tr>
+  <tr>
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  </tr>
+  <tr>
+    ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  </tr>
+  <tr>
+    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  </tr>
+  <tr>
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  </tr>
+</table>
+  
 <h2 align="left">Home server stack</h2>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
