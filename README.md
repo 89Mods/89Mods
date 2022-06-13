@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  He/Him, She/Her (sometimes)<br>
+  He/Him (default), She/Her (sometimes)<br>
   <img src="https://www.prideflags.org/static/search/data/img/bisexual_pride_flag.svg" width=45 />
   <img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
 </p>
