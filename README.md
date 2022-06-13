@@ -1,16 +1,16 @@
 <h2 align="left">About me</h2>
 
 <p>
-Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool).<br>
-I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
-Check out my website for a small selection of the things I usually get up to: <a href="https://tholin.dev/">here!</a><br>
-Reach out if you need help with or just wanna talk about shader programming or digital electronics
+  Just a birb that's really into VR. I like to create content for VRChat and experiment with Unity shaders. However, my interest for computer programming was forged in the fires of assembly language, and so I still enjoy working with low-level languages and systems the most (though C# is also pretty cool).<br>
+  I like building my own embedded systems or microcomputers and playing with them, on top of pushing the boundaries of what's possible with VRC's SDK and Unity graphics shaders.
+  Check out my website for a small selection of the things I usually get up to: <a href="https://tholin.dev/">here!</a><br>
+  Reach out if you need help with or just wanna talk about shader programming or digital electronics
 </p>
 
-<h4 align="left">He/Him, She/Her (sometimes)</h4>
 <p>
-<img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
-<img src="https://www.prideflags.org/static/search/data/img/bisexual_pride_flag.svg" width=45 />
+  He/Him, She/Her (sometimes)<br>
+  <img src="https://www.prideflags.org/static/search/data/img/bisexual_pride_flag.svg" width=45 />
+  <img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
 </p>
   
 <h2 align="left">Programming Languages</h2>
