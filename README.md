@@ -13,12 +13,17 @@ Sorted approximately from most favorite to least.
 <table>
   <tr>
     <td>
-      Assembly (Z80, AVR<br>CDP1802, S2650, 6502/65C02)
+      Assembly (Z80, AVR, CDP1802<br>S2650, 6502/65C02)
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      HLSL/GLSL
     </td>
   </tr>
   <tr>
