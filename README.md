@@ -9,6 +9,7 @@ Reach out if you need help with or just wanna talk about shader programming or d
 
 <h4 align="left">He/Him, She/Her (sometimes)</h4>
 <img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
+<img src="https://www.prideflags.org/static/search/data/img/bisexual_pride_flag.svg" width=45 />
   
 <h2 align="left">Programming Languages</h2>
 
