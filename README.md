@@ -21,6 +21,7 @@ Sorted approximately from most favorite to least.
   <tr>
     <td>
       Assembly (Z80, AVR, CDP1802<br>S2650, 6502/65C02)
+      <img src="https://img.shields.io/badge/Z80%20Assembly-blue?style=for-the-badge" alt="Z80 Assembly" />
     </td>
   </tr>
   <tr>
