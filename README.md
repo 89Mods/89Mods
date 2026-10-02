@@ -12,6 +12,8 @@
   <img src="https://www.prideflags.org/static/search/data/img/bisexual_pride_flag.svg" width=45 />
   <img src="https://www.prideflags.org/static/search/data/img/genderfluid_pride_flag.svg" width=45 />
 </p>
+
+[![Vibe-Scale 0: No AI](https://img.shields.io/badge/Vibe--Scale%200-No%20AI-9467bd)](https://github.com/vibesdk/vibe-scale/blob/main/scale/vibe-0.md)
   
 <h2 align="left">Programming Languages</h2>
 
